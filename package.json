@@ -1,5 +1,5 @@
 {
-  "name": "red-contrib-parse-gps",
+  "name": "node-red-contrib-parse-gps",
   "version": "1.0.0",
   "description": "Parse GPS",
   "main": "index.js",
