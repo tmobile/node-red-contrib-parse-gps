@@ -1,5 +1,5 @@
 {
-  "name": "node-red-contrib-parse-gps",
+  "name": "red-contrib-parse-gps",
   "version": "1.0.0",
   "description": "Parse GPS",
   "main": "index.js",
@@ -10,5 +10,19 @@
     "nodes": {
       "parse-gps": "parse-gps.js"
     }
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmobile/node-red-contrib-parse-gps.git"
+  },
+  "keywords": [
+    "gps",
+    "node-red"
+  ],
+  "author": "T-Mobile, Inc.",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/tmobile/node-red-contrib-parse-gps/issues"
+  },
+  "homepage": "https://github.com/tmobile/node-red-contrib-parse-gps#readme"
 }
