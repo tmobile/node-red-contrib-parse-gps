@@ -1,2 +1,7 @@
 # node-red-contrib-parse-gps
-Parse GPS Data
+
+> **Warning**: This Node-RED node has only been tested on the [Quectel EC25A](https://www.quectel.com/product/ec25.htm) module. If you find this node to work with other modules, or wish to contribute support for additional modules, let us know!
+
+This node takes a `payload` of GPS data and parses it into a structured JSON object.
+
+Found this useful? You might also like the [`node-red-contrib-enable-gps`](https://github.com/tmobile/node-red-contrib-enable-gps) node.
